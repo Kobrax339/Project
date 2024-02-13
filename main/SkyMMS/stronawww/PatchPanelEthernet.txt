@@ -1,0 +1,58 @@
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (1,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (2,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (3,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (4,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (5,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (6,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (7,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (8,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (9,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (10,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (11,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (12,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (13,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (14,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (15,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (16,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (17,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (18,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (19,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (20,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (21,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (22,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (23,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (24,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (25,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (26,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (27,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (28,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (29,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (30,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (31,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (32,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (33,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (34,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (35,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (36,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (37,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (38,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (39,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (40,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (41,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (42,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (43,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (44,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (45,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (46,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (47,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (48,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (49,12351);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (50,12351);
+
+
+INSERT INTO `Telefony`( `Patchpanel_1`, `Port_1`, `Patchpanel_2`, `Port_2`, `Nr_telefonu`, `Nr_Gniazda`) VALUES (12328,1712,12328,1712,wolny,3,) 21
+7-16 wolny centrala 6-5
+10-16 7-1
+9-16 7-2 wolny
+9-15 7-5 wolny
+

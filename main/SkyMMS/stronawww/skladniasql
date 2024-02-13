@@ -1,0 +1,7 @@
+SELECT Telefony.Patchpanel_1, Telefony.Port_1, Telefony.Port_2, Telefony.Patchpanel_2, Telefony.Nr_telefonu, Telefony.Nr_Gniazda,  Porty.ID_PortPP as idport1, Porty.Numer_Portu as numerportu1, PathPanel.Nazwa_PP, PathPanel.ID_PP, por1.ID_PortPP as idport2, por1.Numer_Portu as numerport2, por2.Nazwa_PP, por2.ID_PP 
+FROM Telefony 
+LEFT JOIN Porty ON Telefony.Port_1 = Porty.ID_PortPP
+LEFT JOIN PathPanel ON Telefony.Patchpanel_1 = PathPanel.ID_PP
+LEFT JOIN Porty as por1 ON Telefony.Port_2 = por1.ID_PortPP
+LEFT JOIN PathPanel as por2 ON Telefony.Patchpanel_2 = por2.ID_PP
+ORDER BY Telefony.Patchpanel_1

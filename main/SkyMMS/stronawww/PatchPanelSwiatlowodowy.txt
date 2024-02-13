@@ -1,0 +1,12 @@
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (1,12331);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (2,12331);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (3,12331);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (4,12331);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (5,12331);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (6,12331);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (7,12331);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (8,12331);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (9,12331);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (10,12331);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (11,12331);
+INSERT INTO `Porty`(`Numer_Portu`, `PathPanel`) VALUES (12,12331);

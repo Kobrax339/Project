@@ -1,0 +1,20 @@
+tabela device 
+Pola ID_device 
+device_name
+device_description
+device_type klucz obcy
+ports_qty
+
+Tabela device_type
+ID_type
+type
+
+Tabela socket
+ID_socket
+nr_socket
+loc_socket
+
+Tabela room
+id_room
+room_name
+
